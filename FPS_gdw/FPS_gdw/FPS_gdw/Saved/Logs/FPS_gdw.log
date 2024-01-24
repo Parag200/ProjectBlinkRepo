@@ -2552,3 +2552,1379 @@ Script Stack (0 frames) :
 [2024.01.24-19.18.27:872][792]LogViewport: Scene viewport resized to 1416x555, mode Windowed.
 [2024.01.24-19.18.27:917][793]LogViewport: Scene viewport resized to 1369x510, mode Windowed.
 [2024.01.24-19.18.27:958][794]LogViewport: Scene viewport resized to 1362x503, mode Windowed.
+[2024.01.24-19.34.59:614][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.01.24-19.35.00:558][989]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.35.00:639][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.24-19.35.00:658][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.24-19.35.00:672][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.24-19.35.10:049][ 28]LogMetaData: Removing '/Game/Screns/CONTROLS_WD.CONTROLS_WD_C' ref from Metadata '/Game/CONTROLS/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.35.10:050][ 28]LogMetaData: Removing '/Game/Screns/CONTROLS_WD.CONTROLS_WD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CONTROLS/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.35.10:050][ 28]LogMetaData: Removing '/Game/Screns/CONTROLS_WD.CONTROLS_WD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/CONTROLS/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.35.10:050][ 28]LogMetaData: Removing '/Game/Screns/CONTROLS_WD.CONTROLS_WD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/CONTROLS/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.35.10:050][ 28]LogMetaData: Removing '/Game/Screns/CONTROLS_WD.SKEL_CONTROLS_WD_C:PreConstruct' ref from Metadata '/Game/CONTROLS/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.35.10:050][ 28]LogMetaData: Removing '/Game/Screns/CONTROLS_WD.SKEL_CONTROLS_WD_C:Construct' ref from Metadata '/Game/CONTROLS/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.35.10:050][ 28]LogMetaData: Removing '/Game/Screns/CONTROLS_WD.SKEL_CONTROLS_WD_C:Tick' ref from Metadata '/Game/CONTROLS/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.35.10:050][ 28]LogMetaData: Removing '/Game/Screns/CONTROLS_WD.SKEL_CONTROLS_WD_C:BndEvt__CONTROLS_WD_Button_0_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/CONTROLS/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.35.10:050][ 28]LogMetaData: Removing '/Game/Screns/CONTROLS_WD.SKEL_CONTROLS_WD_C' ref from Metadata '/Game/CONTROLS/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.35.10:083][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.35.10:104][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Screns/CONTROLS_WD" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screns/CONTROLS_WD.uasset" SILENT=true
+[2024.01.24-19.35.10:109][ 28]LogSavePackage: Moving output files for package: /Game/Screns/CONTROLS_WD
+[2024.01.24-19.35.10:109][ 28]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/CONTROLS_WD8F322D5C47FB5CCC7CC97CB2FDC83189.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screns/CONTROLS_WD.uasset'
+[2024.01.24-19.35.10:113][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CONTROLS/CONTROLS_WD" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/CONTROLS/CONTROLS_WD.uasset" SILENT=true
+[2024.01.24-19.35.10:114][ 28]LogSavePackage: Moving output files for package: /Game/CONTROLS/CONTROLS_WD
+[2024.01.24-19.35.10:115][ 28]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/CONTROLS_WDB9BFC3B145EE6BF0D9D1DF84E5CD59BE.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/CONTROLS/CONTROLS_WD.uasset'
+[2024.01.24-19.35.10:126][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 2.86 sec)
+[2024.01.24-19.35.10:134][ 28]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-19.35.10:134][ 28]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Screns/CONTROLS_WD.CONTROLS_WD
+[2024.01.24-19.35.10:134][ 28]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/CONTROLS/CONTROLS_WD.CONTROLS_WD
+[2024.01.24-19.35.10:134][ 28]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/CONTROLS/CONTROLS_WD.CONTROLS_WD_C
+[2024.01.24-19.35.10:134][ 28]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/CONTROLS/CONTROLS_WD.Default__CONTROLS_WD_C
+[2024.01.24-19.35.18:464][945]LogMetaData: Removing '/Game/Screns/SettingsW.SettingsW_C' ref from Metadata '/Game/Settings/SettingsW.PackageMetaData'
+[2024.01.24-19.35.18:464][945]LogMetaData: Removing '/Game/Screns/SettingsW.SettingsW:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Settings/SettingsW.PackageMetaData'
+[2024.01.24-19.35.18:464][945]LogMetaData: Removing '/Game/Screns/SettingsW.SettingsW:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Settings/SettingsW.PackageMetaData'
+[2024.01.24-19.35.18:464][945]LogMetaData: Removing '/Game/Screns/SettingsW.SettingsW:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Settings/SettingsW.PackageMetaData'
+[2024.01.24-19.35.18:464][945]LogMetaData: Removing '/Game/Screns/SettingsW.SKEL_SettingsW_C:PreConstruct' ref from Metadata '/Game/Settings/SettingsW.PackageMetaData'
+[2024.01.24-19.35.18:464][945]LogMetaData: Removing '/Game/Screns/SettingsW.SKEL_SettingsW_C:Construct' ref from Metadata '/Game/Settings/SettingsW.PackageMetaData'
+[2024.01.24-19.35.18:464][945]LogMetaData: Removing '/Game/Screns/SettingsW.SKEL_SettingsW_C:Tick' ref from Metadata '/Game/Settings/SettingsW.PackageMetaData'
+[2024.01.24-19.35.18:464][945]LogMetaData: Removing '/Game/Screns/SettingsW.SKEL_SettingsW_C:BndEvt__SettingsW_Button_0_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Settings/SettingsW.PackageMetaData'
+[2024.01.24-19.35.18:464][945]LogMetaData: Removing '/Game/Screns/SettingsW.SKEL_SettingsW_C:BndEvt__SettingsW_Slider_0_K2Node_ComponentBoundEvent_1_OnFloatValueChangedEvent__DelegateSignature' ref from Metadata '/Game/Settings/SettingsW.PackageMetaData'
+[2024.01.24-19.35.18:464][945]LogMetaData: Removing '/Game/Screns/SettingsW.SKEL_SettingsW_C' ref from Metadata '/Game/Settings/SettingsW.PackageMetaData'
+[2024.01.24-19.35.18:481][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.35.18:508][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Screns/SettingsW" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screns/SettingsW.uasset" SILENT=true
+[2024.01.24-19.35.18:514][945]LogSavePackage: Moving output files for package: /Game/Screns/SettingsW
+[2024.01.24-19.35.18:514][945]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/SettingsW28037EF24EFF69BBF17571B9F88DB3DD.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screns/SettingsW.uasset'
+[2024.01.24-19.35.18:518][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Settings/SettingsW" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Settings/SettingsW.uasset" SILENT=true
+[2024.01.24-19.35.18:519][945]LogSavePackage: Moving output files for package: /Game/Settings/SettingsW
+[2024.01.24-19.35.18:520][945]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/SettingsW43AE5B234F5BBE7454F9809E7F385664.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Settings/SettingsW.uasset'
+[2024.01.24-19.35.18:530][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 2.90 sec)
+[2024.01.24-19.35.18:541][945]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-19.35.18:541][945]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Screns/SettingsW.SettingsW
+[2024.01.24-19.35.18:541][945]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Settings/SettingsW.SettingsW
+[2024.01.24-19.35.18:541][945]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Settings/SettingsW.SettingsW_C
+[2024.01.24-19.35.18:542][945]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Settings/SettingsW.Default__SettingsW_C
+[2024.01.24-19.35.21:025][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.24-19.35.28:408][235]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.35.38:601][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.35.52:305][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.24-19.35.57:104][696]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.35.58:621][869]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.36.11:784][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: ================================================
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Total job queries 24, among them cache hits 0 (0.00%)
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Tracking 21 distinct input hashes that result in 15 distinct outputs (71.43%)
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: RAM used: 433.06 KiB of 819.20 MiB budget. Usage: 0.05%
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Shaders Compiled: 21
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Jobs assigned 24, completed 21 (87.50%)
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Average time worker was idle: 554.61 s
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 2.29 s
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Job life time (pending + execution): average 0.97 s, max 2.39
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Shader code size: average 34.227 KiB, min 29.664 KiB, max 36.984 KiB
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.59 s
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Average processing rate: 3.19 jobs/sec
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Total thread time: 5.452 s
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Total thread preprocess time: 0.734 s
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Percentage time preprocessing: 13.46%
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Effective parallelization: 0.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.32 sec, max 0.37 sec, min 0.25 sec)
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.30 sec, max 0.35 sec, min 0.24 sec)
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.30 sec, max 0.36 sec, min 0.24 sec)
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    6 times, average 0.14 sec, max 0.16 sec, min 0.11 sec)
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.99% of total time (compiled    5 times, average 0.32 sec, max 0.37 sec, min 0.25 sec)
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.88% of total time (compiled    5 times, average 0.30 sec, max 0.35 sec, min 0.24 sec)
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.75% of total time (compiled    5 times, average 0.30 sec, max 0.36 sec, min 0.24 sec)
+[2024.01.24-19.36.14:258][399]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 15.38% of total time (compiled    6 times, average 0.14 sec, max 0.16 sec, min 0.11 sec)
+[2024.01.24-19.36.14:259][399]LogShaderCompilers: Display: ================================================
+[2024.01.24-19.36.18:764][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.36.18:876][759]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.36.18:910][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.36.21:204][961]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2024.01.24-19.36.21:356][961]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.36.21:356][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-19.36.21:719][961]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.01.24-19.36.22:174][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-19.36.23:279][961]LogViewport: Scene viewport resized to 1229x736, mode Windowed.
+[2024.01.24-19.36.25:444][ 74]LogSlate: Window 'SK_FPGun' being destroyed
+[2024.01.24-19.36.25:449][ 74]LogSlate: Window 'SK_FPGun' being destroyed
+[2024.01.24-19.36.25:504][ 74]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-19.36.25:504][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-19.36.40:383][549]LogTexture: Display: Building textures: /Game/FirstPerson/FPWeapon/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight (RGBA16F, 7372x3686 x1x1x1) (Required Memory Estimate: 932.979996 MB), EncodeSpeed: Fast
+[2024.01.24-19.36.41:477][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.24-19.36.42:897][549]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.36.43:012][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.24-19.36.43:029][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.24-19.36.43:044][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.24-19.36.45:328][791]LogAssetEditorSubsystem: Opening Asset editor for TextureCube /Game/FirstPerson/FPWeapon/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+[2024.01.24-19.36.45:584][791]LogViewport: Scene viewport resized to 1231x768, mode Windowed.
+[2024.01.24-19.36.47:210][928]LogSlate: Window 'HDRI_Epic_Courtyard_Daylight' being destroyed
+[2024.01.24-19.36.47:215][928]LogSlate: Window 'HDRI_Epic_Courtyard_Daylight' being destroyed
+[2024.01.24-19.36.50:773][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.24-19.36.51:541][336]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.36.51:636][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.24-19.36.51:657][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.24-19.36.51:672][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.24-19.36.56:650][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.24-19.36.57:539][821]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.36.57:596][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.24-19.36.57:614][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.24-19.36.57:629][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.24-19.37.03:144][372]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.01.24-19.37.04:085][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.24-19.37.05:029][372]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.37.05:083][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.24-19.37.05:098][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.24-19.37.05:113][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.24-19.37.11:899][954]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.01.24-19.37.13:237][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.24-19.37.15:872][954]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.37.15:887][954]LogUObjectGlobals: Force Deleting 103 Package(s):
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Water_N.T_Water_N
+	Asset Type: Texture2D
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Fire_Tiled_D.T_Fire_Tiled_D
+	Asset Type: Texture2D
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Fire_SubUV.T_Fire_SubUV
+	Asset Type: Texture2D
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Explosion_SubUV.T_Explosion_SubUV
+	Asset Type: Texture2D
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Burst_M.T_Burst_M
+	Asset Type: Texture2D
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Bush_N.T_Bush_N
+	Asset Type: Texture2D
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Bush_D.T_Bush_D
+	Asset Type: Texture2D
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Chair_N.T_Chair_N
+	Asset Type: Texture2D
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Chair_M.T_Chair_M
+	Asset Type: Texture2D
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Door_N.T_Door_N
+	Asset Type: Texture2D
+[2024.01.24-19.37.22:040][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.24-19.37.22:091][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.24-19.37.22:106][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.24-19.37.24:861][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.24-19.37.25:758][193]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.37.25:783][193]LogStaticMesh: Display: Waiting for static meshes to be ready 12/19 (/Game/FirstPerson/FPWeapon/StarterContent/Shapes/Shape_Pipe_90) ...
+[2024.01.24-19.37.25:827][193]LogStaticMesh: Display: Waiting for static meshes to be ready 13/19 (/Game/FirstPerson/FPWeapon/StarterContent/Shapes/Shape_Pipe_180) ...
+[2024.01.24-19.37.25:914][193]LogStaticMesh: Display: Waiting for static meshes to be ready 15/19 (/Game/FirstPerson/FPWeapon/StarterContent/Shapes/Shape_NarrowCapsule) ...
+[2024.01.24-19.37.25:972][193]LogStaticMesh: Display: Waiting for static meshes to be ready 16/19 (/Game/FirstPerson/FPWeapon/StarterContent/Shapes/Shape_Cylinder) ...
+[2024.01.24-19.37.26:064][193]LogStaticMesh: Display: Waiting for static meshes to be ready 17/19 (/Game/FirstPerson/FPWeapon/StarterContent/Shapes/Shape_Cube) ...
+[2024.01.24-19.37.26:143][193]LogStaticMesh: Display: Waiting for static meshes to be ready 18/19 (/Game/FirstPerson/FPWeapon/StarterContent/Shapes/Shape_Cone) ...
+[2024.01.24-19.37.26:179][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.24-19.37.26:194][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.24-19.37.26:210][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.24-19.37.26:329][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.24-19.37.26:331][194]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVELS/FirstPersonMap' took 0.027
+[2024.01.24-19.37.26:341][194]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/IngameMenu/InGameWD] ([2] browsable assets)...
+[2024.01.24-19.37.26:345][194]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/IngameMenu/InGameWD.InGameWD]
+[2024.01.24-19.37.26:345][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/IngameMenu/InGameWD]
+[2024.01.24-19.37.26:353][194]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IngameMenu/InGameWD_Auto2
+[2024.01.24-19.37.26:353][194]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/InGameWD_Auto24DE2232B493F2BA20BD5A185B2F05F4B.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/Autosaves/Game/IngameMenu/InGameWD_Auto2.uasset'
+[2024.01.24-19.37.26:354][194]LogFileHelpers: Auto-saving content packages took 0.023
+[2024.01.24-19.37.31:561][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.01.24-19.37.32:584][736]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.37.32:613][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.24-19.37.32:628][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.24-19.37.32:642][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.24-19.37.37:920][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.24-19.37.38:932][260]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.37.38:969][260]LogUObjectGlobals: Force Deleting 24 Package(s):
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Fire01_Cue.Fire01_Cue
+	Asset Type: SoundCue
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Fire01.Fire01
+	Asset Type: SoundWave
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Explosion_Cue.Explosion_Cue
+	Asset Type: SoundCue
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Explosion02.Explosion02
+	Asset Type: SoundWave
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Explosion01.Explosion01
+	Asset Type: SoundWave
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Smoke01_Cue.Smoke01_Cue
+	Asset Type: SoundCue
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Smoke01.Smoke01
+	Asset Type: SoundWave
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue
+	Asset Type: SoundCue
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01
+	Asset Type: SoundWave
+	Asset Name: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Steam01_Cue.Steam01_Cue
+	Asset Type: SoundCue
+[2024.01.24-19.37.40:951][260]LogSlate: Window 'Message' being destroyed
+[2024.01.24-19.37.40:954][260]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Wind06.Starter_Wind06 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Wind06.Starter_Wind06:
+   SoundNodeWavePlayer /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_3 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2024.01.24-19.37.40:955][260]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Wind06, this package is now potentially corrupt
+[2024.01.24-19.37.42:460][260]LogSlate: Window 'Message' being destroyed
+[2024.01.24-19.37.42:464][260]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Wind05.Starter_Wind05 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Wind05.Starter_Wind05:
+   SoundNodeWavePlayer /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2024.01.24-19.37.42:464][260]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Wind05, this package is now potentially corrupt
+[2024.01.24-19.37.44:825][260]LogSlate: Window 'Message' being destroyed
+[2024.01.24-19.37.44:855][260]Message dialog closed, result: Cancel, title: Message, text: SoundWave /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Birds01.Starter_Birds01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Birds01.Starter_Birds01:
+   SoundNodeWavePlayer /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2024.01.24-19.37.44:855][260]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Birds01, this package is now potentially corrupt
+[2024.01.24-19.37.45:428][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.24-19.37.45:444][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.01.24-19.37.45:457][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.24-19.37.45:507][260]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.01.24-19.37.45:663][260]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.156 s
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: === Handled ensure: ===
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: 
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: Ensure condition failed: false  [File:D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 3696] 
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: 
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: 					from the file system manually: 
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Wind06
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Wind05
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: /Game/FirstPerson/FPWeapon/StarterContent/Audio/Starter_Birds01
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: Stack: 
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: [Callstack] 0x00007fff953ce110 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: [Callstack] 0x00007fff946a75d5 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: [Callstack] 0x00007fff94b6b926 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: [Callstack] 0x00007fff94b5f27a UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: [Callstack] 0x00007fff9741a5fa UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: [Callstack] 0x00007fff9741df65 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: [Callstack] 0x00007fff9743f3e8 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: [Callstack] 0x00007fff97193b5a UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:663][260]LogOutputDevice: Error: [Callstack] 0x00007fff971fe365 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff971eb562 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff971de2fa UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fffee4e7dc6 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fffee4cb83f UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fffee4eab29 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fffee4c32e3 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff82eece858 USER32.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff82eece299 USER32.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fffee4ec119 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff972079a3 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff971b1f85 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff94cc461f UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff953c3891 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff89ab7f55 UnrealEditor-AssetTools.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x0000018aa8b5be33 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x0000018aa8b5c0c6 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x0000018aa8b39d27 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff8315ab7e UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff83157440 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff8331d6ba UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff83271b0a UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff9741a5fa UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff9741df65 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff9743f3e8 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff97193b5a UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff971fe365 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff971eb562 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fff971de2fa UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fffee4e7dc6 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fffee4cb83f UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fffee4eab29 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fffee4c32e3 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff82eece858 USER32.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff82eece299 USER32.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007fffee4ec226 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff7ce6576f2 UnrealEditor.exe!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff7ce67d28c UnrealEditor.exe!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff7ce67d37a UnrealEditor.exe!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff7ce680854 UnrealEditor.exe!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff7ce696984 UnrealEditor.exe!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff7ce699d7a UnrealEditor.exe!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff82e7a7344 KERNEL32.DLL!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: [Callstack] 0x00007ff82fa626b1 ntdll.dll!UnknownFunction []
+[2024.01.24-19.37.45:664][260]LogOutputDevice: Error: 
+[2024.01.24-19.37.45:673][260]LogStats:                SubmitErrorReport -  0.000 s
+[2024.01.24-19.37.56:954][260]LogStats:                    SendNewReport - 11.282 s
+[2024.01.24-19.37.56:954][260]LogStats:             FDebug::EnsureFailed - 11.447 s
+[2024.01.24-19.39.28:659][860]AssetReimport: New page: Outstanding source content changes 9:39:28 a.m.
+[2024.01.24-19.39.28:681][860]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/TPDartNEW.FBX)
+[2024.01.24-19.39.28:699][860]LogFbx: Loading FBX Scene from D:/ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/TPDartNEW.FBX
+[2024.01.24-19.39.28:752][860]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.24-19.39.30:306][860]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.24-19.39.30:404][860]LogFbx: Valid bind pose for Pose (TPDartNEW) - TPDartNEW1
+[2024.01.24-19.39.30:751][860]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2024.01.24-19.39.34:925][860]LogSkeletalMesh: Section 0: Material=0, 768 triangles
+[2024.01.24-19.39.34:926][860]LogSkeletalMesh: Section 1: Material=1, 173625 triangles
+[2024.01.24-19.39.35:141][860]LogSkeletalMesh: Building Skeletal Mesh TPDartNEW...
+[2024.01.24-19.39.38:409][860]LogSkeletalMesh: Built Skeletal Mesh [3.27s] /Game/TPDart/Game/Dart/TPDartNEW.TPDartNEW
+[2024.01.24-19.39.38:476][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.39.38:476][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-19.39.38:487][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.01.24-19.39.38:520][860]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-19.39.38:520][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-19.39.38:533][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.39.38:533][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-19.39.38:547][860]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-19.39.38:548][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-19.39.38:695][860]FBXImport: FBX File Loading: Found name clash, node 'TPDartNEW' was renamed to 'TPDartNEW1' 
+[2024.01.24-19.39.38:805][861]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/TPDartNEW_Anim.FBX)
+[2024.01.24-19.39.38:813][861]LogFbx: Loading FBX Scene from D:/ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/TPDartNEW_Anim.FBX
+[2024.01.24-19.39.38:817][861]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.24-19.39.40:288][861]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.24-19.39.40:317][861]LogFbx: SortedLinks :(0) rings
+[2024.01.24-19.39.40:341][861]LogFbx: Parsing AnimStack Unreal Take
+[2024.01.24-19.39.40:644][861]LogAnimationCompression: Display: Storing compressed animation data for /Game/TPDart/Game/Dart/TPDartNEW_Anim.TPDartNEW_Anim, at AnimationSequence/9156e7f690b6f232f9502620746357ada7cbbad9
+[2024.01.24-19.39.40:684][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.39.40:704][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.39.40:847][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPDart/Game/Dart/TPDartNEW" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/TPDartNEW.uasset" SILENT=true
+[2024.01.24-19.39.41:386][862]LogSavePackage: Moving output files for package: /Game/TPDart/Game/Dart/TPDartNEW
+[2024.01.24-19.39.41:386][862]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/TPDartNEWC710E5674F4DC5A68D89FC8B963947A7.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/TPDartNEW.uasset'
+[2024.01.24-19.39.41:388][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.39.41:412][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPDart/Game/Dart/TPDartNEW_Anim" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/TPDartNEW_Anim.uasset" SILENT=true
+[2024.01.24-19.39.42:628][862]LogSavePackage: Moving output files for package: /Game/TPDart/Game/Dart/TPDartNEW_Anim
+[2024.01.24-19.39.42:628][862]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/TPDartNEW_AnimC0B35D984549EE665993B89DDCC3E9FD.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/TPDartNEW_Anim.uasset'
+[2024.01.24-19.39.42:638][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.95 sec (total: 4.86 sec)
+[2024.01.24-19.39.42:657][863]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-19.39.42:657][863]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/TPDart/Game/Dart/TPDartNEW.TPDartNEW
+[2024.01.24-19.39.42:657][863]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TPDart/Game/Dart/TPDartNEW_Anim.TPDartNEW_Anim
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: ================================================
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Total job queries 100, among them cache hits 0 (0.00%)
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 25 distinct outputs (65.79%)
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: RAM used: 790.39 KiB of 819.20 MiB budget. Usage: 0.09%
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Shaders Compiled: 38
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100%)
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Average time worker was idle: 309.56 s
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Job execution time: average 0.91 s, max 2.49 s
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Job life time (pending + execution): average 0.97 s, max 2.59
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Shader code size: average 34.514 KiB, min 29.613 KiB, max 37.445 KiB
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.38 s
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Average processing rate: 3.66 jobs/sec
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Total thread time: 9.401 s
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Total thread preprocess time: 1.321 s
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Percentage time preprocessing: 14.05%
+[2024.01.24-19.39.43:225][911]LogShaderCompilers: Display: Effective parallelization: 0.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.24-19.39.43:226][911]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.01.24-19.39.43:226][911]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 0.30 sec, max 0.37 sec, min 0.25 sec)
+[2024.01.24-19.39.43:226][911]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 0.28 sec, max 0.35 sec, min 0.23 sec)
+[2024.01.24-19.39.43:226][911]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    9 times, average 0.27 sec, max 0.36 sec, min 0.23 sec)
+[2024.01.24-19.39.43:226][911]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    9 times, average 0.13 sec, max 0.16 sec, min 0.11 sec)
+[2024.01.24-19.39.43:226][911]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.01.24-19.39.43:226][911]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.63% of total time (compiled   10 times, average 0.30 sec, max 0.37 sec, min 0.25 sec)
+[2024.01.24-19.39.43:226][911]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.63% of total time (compiled   10 times, average 0.28 sec, max 0.35 sec, min 0.23 sec)
+[2024.01.24-19.39.43:226][911]LogShaderCompilers: Display:                                                 FLumenCardVS - 26.11% of total time (compiled    9 times, average 0.27 sec, max 0.36 sec, min 0.23 sec)
+[2024.01.24-19.39.43:226][911]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.63% of total time (compiled    9 times, average 0.13 sec, max 0.16 sec, min 0.11 sec)
+[2024.01.24-19.39.43:226][911]LogShaderCompilers: Display: ================================================
+[2024.01.24-19.39.44:020][988]LogSlate: Window 'Message Log' being destroyed
+[2024.01.24-19.39.44:033][988]LogSlate: Window 'Message Log' being destroyed
+[2024.01.24-19.39.45:639][166]AssetReimport: Importing new asset /Game/TPDart/Game/Dart/TPDartNEW.
+[2024.01.24-19.39.45:639][166]AssetReimport: Importing new asset /Game/TPDart/Game/Dart/TPDartNEW_Anim.
+[2024.01.24-19.39.50:085][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.24-19.39.51:212][613]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.39.51:242][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.24-19.39.51:257][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.24-19.39.51:272][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.24-19.40.00:006][478]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.01.24-19.40.00:023][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Walnut.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2024.01.24-19.40.00:023][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Walnut.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_MacroVariation'
+[2024.01.24-19.40.00:042][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Walnut.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Walnut_D': Can't find file.
+[2024.01.24-19.40.00:042][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Walnut.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Walnut_D'
+[2024.01.24-19.40.00:042][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Walnut.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Walnut_N': Can't find file.
+[2024.01.24-19.40.00:042][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Walnut.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Walnut_N'
+[2024.01.24-19.40.00:062][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Walnut.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:064][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Pine.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2024.01.24-19.40.00:064][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Pine.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Perlin_Noise_M'
+[2024.01.24-19.40.00:064][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Pine.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Pine_D': Can't find file.
+[2024.01.24-19.40.00:064][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Pine.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Pine_D'
+[2024.01.24-19.40.00:064][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Pine.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Pine_N': Can't find file.
+[2024.01.24-19.40.00:064][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Pine.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Pine_N'
+[2024.01.24-19.40.00:068][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:070][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Oak_D': Can't find file.
+[2024.01.24-19.40.00:070][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Oak.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Oak_D'
+[2024.01.24-19.40.00:070][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Oak_N': Can't find file.
+[2024.01.24-19.40.00:070][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Oak.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Oak_N'
+[2024.01.24-19.40.00:072][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:090][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Floor_Walnut_D': Can't find file.
+[2024.01.24-19.40.00:090][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Floor_Walnut_D'
+[2024.01.24-19.40.00:090][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Floor_Walnut_M': Can't find file.
+[2024.01.24-19.40.00:090][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Floor_Walnut_M'
+[2024.01.24-19.40.00:090][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Floor_Walnut_N': Can't find file.
+[2024.01.24-19.40.00:091][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Wood_Floor_Walnut_N'
+[2024.01.24-19.40.00:106][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2024.01.24-19.40.00:110][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2024.01.24-19.40.00:111][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Water_Ocean.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Water_M': Can't find file.
+[2024.01.24-19.40.00:111][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Water_Ocean.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Water_M'
+[2024.01.24-19.40.00:111][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Water_Ocean.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Water_N': Can't find file.
+[2024.01.24-19.40.00:111][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Water_Ocean.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Water_N'
+[2024.01.24-19.40.00:113][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:117][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Water_Lake.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:118][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Panel.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Steel_D': Can't find file.
+[2024.01.24-19.40.00:118][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Panel.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Steel_D'
+[2024.01.24-19.40.00:118][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Panel.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Panel_M': Can't find file.
+[2024.01.24-19.40.00:118][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Panel.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Panel_M'
+[2024.01.24-19.40.00:118][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Panel.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Panel_N': Can't find file.
+[2024.01.24-19.40.00:118][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Panel.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Panel_N'
+[2024.01.24-19.40.00:120][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Panel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:121][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Hex_Tile_M': Can't find file.
+[2024.01.24-19.40.00:121][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Hex_Tile_M'
+[2024.01.24-19.40.00:121][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Hex_Tile_N': Can't find file.
+[2024.01.24-19.40.00:122][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Hex_Tile_N'
+[2024.01.24-19.40.00:130][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:133][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Hex_Tile.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:134][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Checker_Dot.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Checker_Noise_M': Can't find file.
+[2024.01.24-19.40.00:134][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Checker_Dot.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Checker_Noise_M'
+[2024.01.24-19.40.00:134][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Checker_Dot.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Single_Tile_N': Can't find file.
+[2024.01.24-19.40.00:134][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Checker_Dot.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Single_Tile_N'
+[2024.01.24-19.40.00:134][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Checker_Dot.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Dot_M': Can't find file.
+[2024.01.24-19.40.00:134][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Checker_Dot.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Dot_M'
+[2024.01.24-19.40.00:135][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Checker_Dot.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Dot_N': Can't find file.
+[2024.01.24-19.40.00:135][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Checker_Dot.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Tech_Dot_N'
+[2024.01.24-19.40.00:137][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Tech_Checker_Dot.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:138][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Slate.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Slate_D': Can't find file.
+[2024.01.24-19.40.00:138][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Slate.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Slate_D'
+[2024.01.24-19.40.00:138][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Slate.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Slate_N': Can't find file.
+[2024.01.24-19.40.00:138][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Slate.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Slate_N'
+[2024.01.24-19.40.00:141][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Slate.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:142][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Sandstone.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Sandstone_D': Can't find file.
+[2024.01.24-19.40.00:142][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Sandstone.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Sandstone_D'
+[2024.01.24-19.40.00:142][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Sandstone.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Sandstone_N': Can't find file.
+[2024.01.24-19.40.00:142][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Sandstone.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Sandstone_N'
+[2024.01.24-19.40.00:145][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:146][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Gold_N': Can't find file.
+[2024.01.24-19.40.00:146][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Marble_Polished.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Gold_N'
+[2024.01.24-19.40.00:146][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Marble_Polished_D': Can't find file.
+[2024.01.24-19.40.00:146][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Marble_Polished.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2024.01.24-19.40.00:148][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:150][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Basalt.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Basalt_D': Can't find file.
+[2024.01.24-19.40.00:150][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Basalt.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Basalt_D'
+[2024.01.24-19.40.00:150][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Basalt.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Basalt_N': Can't find file.
+[2024.01.24-19.40.00:150][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Basalt.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Basalt_N'
+[2024.01.24-19.40.00:152][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Rock_Basalt.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:153][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Steel.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Steel_N': Can't find file.
+[2024.01.24-19.40.00:153][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Steel.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Steel_N'
+[2024.01.24-19.40.00:155][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:157][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Rust.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Rust_D': Can't find file.
+[2024.01.24-19.40.00:157][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Rust.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Rust_D'
+[2024.01.24-19.40.00:157][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Rust.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Rust_N': Can't find file.
+[2024.01.24-19.40.00:157][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Rust.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Rust_N'
+[2024.01.24-19.40.00:159][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Rust.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:160][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Gold.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Gold_D': Can't find file.
+[2024.01.24-19.40.00:160][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Gold.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Gold_D'
+[2024.01.24-19.40.00:162][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:163][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Copper.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Copper_D': Can't find file.
+[2024.01.24-19.40.00:163][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Copper.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Copper_D'
+[2024.01.24-19.40.00:165][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:167][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Chrome.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:168][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Burnished_Steel.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Aluminum_D': Can't find file.
+[2024.01.24-19.40.00:168][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Burnished_Steel.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Metal_Aluminum_D'
+[2024.01.24-19.40.00:170][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Burnished_Steel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:173][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Metal_Brushed_Nickel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:174][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Moss.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_ground_Moss_D': Can't find file.
+[2024.01.24-19.40.00:174][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Moss.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_ground_Moss_D'
+[2024.01.24-19.40.00:174][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Moss.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ground_Moss_N': Can't find file.
+[2024.01.24-19.40.00:174][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Moss.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ground_Moss_N'
+[2024.01.24-19.40.00:176][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Moss.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:178][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Gravel.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ground_Gravel_D': Can't find file.
+[2024.01.24-19.40.00:178][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Gravel.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ground_Gravel_D'
+[2024.01.24-19.40.00:178][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Gravel.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ground_Gravel_N': Can't find file.
+[2024.01.24-19.40.00:178][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Gravel.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ground_Gravel_N'
+[2024.01.24-19.40.00:180][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Gravel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:181][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Grass.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ground_Grass_D': Can't find file.
+[2024.01.24-19.40.00:181][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Grass.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ground_Grass_D'
+[2024.01.24-19.40.00:181][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Grass.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ground_Grass_N': Can't find file.
+[2024.01.24-19.40.00:181][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Grass.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ground_Grass_N'
+[2024.01.24-19.40.00:184][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ground_Grass.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:186][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Tiles_D': Can't find file.
+[2024.01.24-19.40.00:186][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Tiles.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Tiles_D'
+[2024.01.24-19.40.00:186][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Tiles_M': Can't find file.
+[2024.01.24-19.40.00:186][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Tiles.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Tiles_M'
+[2024.01.24-19.40.00:186][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Tiles_N': Can't find file.
+[2024.01.24-19.40.00:186][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Tiles.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Tiles_N'
+[2024.01.24-19.40.00:186][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Tiles_Variation_M': Can't find file.
+[2024.01.24-19.40.00:186][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Tiles.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Tiles_Variation_M'
+[2024.01.24-19.40.00:189][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:190][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Poured.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Poured_D': Can't find file.
+[2024.01.24-19.40.00:190][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Poured.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Poured_D'
+[2024.01.24-19.40.00:191][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Poured.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2024.01.24-19.40.00:191][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Poured.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Poured_N'
+[2024.01.24-19.40.00:194][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Poured.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:194][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Panels.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Panels_D': Can't find file.
+[2024.01.24-19.40.00:194][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Panels.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Panels_D'
+[2024.01.24-19.40.00:195][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Panels.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Panels_N': Can't find file.
+[2024.01.24-19.40.00:195][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Panels.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Panels_N'
+[2024.01.24-19.40.00:197][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Panels.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:198][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Grime.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Grime_D': Can't find file.
+[2024.01.24-19.40.00:198][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Grime.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Concrete_Grime_D'
+[2024.01.24-19.40.00:201][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Concrete_Grime.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:234][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Smooth_D': Can't find file.
+[2024.01.24-19.40.00:234][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Smooth.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Smooth_D'
+[2024.01.24-19.40.00:234][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Smooth_M': Can't find file.
+[2024.01.24-19.40.00:234][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Smooth.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Smooth_M'
+[2024.01.24-19.40.00:234][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Smooth_N': Can't find file.
+[2024.01.24-19.40.00:234][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Smooth.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Smooth_N'
+[2024.01.24-19.40.00:234][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Gradinet_01': Can't find file.
+[2024.01.24-19.40.00:234][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Smooth.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Gradinet_01'
+[2024.01.24-19.40.00:235][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Smooth_Granite_D': Can't find file.
+[2024.01.24-19.40.00:235][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Smooth.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Rock_Smooth_Granite_D'
+[2024.01.24-19.40.00:244][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:246][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Rough.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Rough_D': Can't find file.
+[2024.01.24-19.40.00:246][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Rough.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Rough_D'
+[2024.01.24-19.40.00:246][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Rough.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Rough_N': Can't find file.
+[2024.01.24-19.40.00:246][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Rough.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Rough_N'
+[2024.01.24-19.40.00:253][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Rough.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.01.24-19.40.00:255][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Pebble_D': Can't find file.
+[2024.01.24-19.40.00:255][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Pebble.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Pebble_D'
+[2024.01.24-19.40.00:255][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Pebble_M': Can't find file.
+[2024.01.24-19.40.00:255][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Pebble.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Pebble_M'
+[2024.01.24-19.40.00:255][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Pebble_N': Can't find file.
+[2024.01.24-19.40.00:255][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Pebble.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_CobbleStone_Pebble_N'
+[2024.01.24-19.40.00:257][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:258][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ceramic_Tile_Checker.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ceramic_Tile_M': Can't find file.
+[2024.01.24-19.40.00:258][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ceramic_Tile_Checker.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ceramic_Tile_M'
+[2024.01.24-19.40.00:258][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ceramic_Tile_Checker.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ceramic_Tile_N': Can't find file.
+[2024.01.24-19.40.00:258][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ceramic_Tile_Checker.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Ceramic_Tile_N'
+[2024.01.24-19.40.00:260][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Ceramic_Tile_Checker.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:261][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Hewn_Stone_D': Can't find file.
+[2024.01.24-19.40.00:261][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Hewn_Stone_D'
+[2024.01.24-19.40.00:261][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Hewn_Stone_M': Can't find file.
+[2024.01.24-19.40.00:261][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Hewn_Stone_M'
+[2024.01.24-19.40.00:261][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Hewn_Stone_N': Can't find file.
+[2024.01.24-19.40.00:261][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Hewn_Stone_N'
+[2024.01.24-19.40.00:261][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Detail_Rocky_N': Can't find file.
+[2024.01.24-19.40.00:261][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Detail_Rocky_N'
+[2024.01.24-19.40.00:264][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:265][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Cut_Stone.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Cut_Stone_D': Can't find file.
+[2024.01.24-19.40.00:265][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Cut_Stone.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Cut_Stone_D'
+[2024.01.24-19.40.00:265][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Cut_Stone.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Cut_Stone_N': Can't find file.
+[2024.01.24-19.40.00:265][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Cut_Stone.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Cut_Stone_N'
+[2024.01.24-19.40.00:267][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Cut_Stone.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:268][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Old.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_Old_D': Can't find file.
+[2024.01.24-19.40.00:268][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Old.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_Old_D'
+[2024.01.24-19.40.00:268][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Old.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_Old_N': Can't find file.
+[2024.01.24-19.40.00:268][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Old.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_Old_N'
+[2024.01.24-19.40.00:270][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Old.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:271][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_New.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_New_D': Can't find file.
+[2024.01.24-19.40.00:271][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_New.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_New_D'
+[2024.01.24-19.40.00:272][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_New.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_New_M': Can't find file.
+[2024.01.24-19.40.00:272][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_New.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_New_M'
+[2024.01.24-19.40.00:272][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_New.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_New_N': Can't find file.
+[2024.01.24-19.40.00:272][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_New.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_New_N'
+[2024.01.24-19.40.00:274][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_New.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:275][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_Beveled_D': Can't find file.
+[2024.01.24-19.40.00:275][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Beveled.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_Beveled_D'
+[2024.01.24-19.40.00:275][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_Beveled_M': Can't find file.
+[2024.01.24-19.40.00:275][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Beveled.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_Beveled_M'
+[2024.01.24-19.40.00:275][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to load '/Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_Beveled_N': Can't find file.
+[2024.01.24-19.40.00:275][478]LogLinker: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Beveled.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/FPWeapon/StarterContent/Textures/T_Brick_Clay_Beveled_N'
+[2024.01.24-19.40.00:277][478]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\StarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.01.24-19.40.00:293][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.24-19.40.01:683][478]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.40.01:720][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.01.24-19.40.01:738][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.24-19.40.01:752][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.24-19.40.09:827][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.24-19.40.10:807][101]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.40.10:829][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.24-19.40.10:845][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.24-19.40.10:857][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.24-19.40.13:228][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.24-19.40.13:929][347]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.40.13:951][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.24-19.40.13:967][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.24-19.40.13:980][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.24-19.40.15:904][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.01.24-19.40.16:590][546]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.40.16:611][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.24-19.40.16:628][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.24-19.40.16:642][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.24-19.40.29:796][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.24-19.40.31:539][ 42]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.40.31:562][ 42]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M.T_FPGun_M
+	Asset Type: Texture2D
+	Asset Name: /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N.T_FPGun_N
+	Asset Type: Texture2D
+[2024.01.24-19.40.31:804][ 42]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.01.24-19.40.31:806][ 42]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.01.24-19.40.31:808][ 42]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.01.24-19.40.31:809][ 42]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.01.24-19.40.31:810][ 42]LogMaterial: Warning: [AssetLog] D:\ZGDW\ProjectBlinkRepo\FPS_gdw\FPS_gdw\FPS_gdw\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.01.24-19.40.31:884][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.24-19.40.31:898][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.01.24-19.40.31:910][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.24-19.40.35:727][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.24-19.40.36:599][448]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.40.36:652][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.24-19.40.36:668][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.24-19.40.36:685][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-19.40.43:025][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.24-19.40.43:131][108]LogTexture: Display: Building textures: /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.T_ML_FineRubber (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.01.24-19.40.43:974][108]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.40.44:279][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.24-19.40.44:294][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.24-19.40.44:306][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.24-19.40.55:840][321]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-19.40.55:840][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-19.40.55:848][321]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-19.40.55:848][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-19.41.00:424][833]LogContentBrowser: Attempting asset rename: CS -> Crosshair
+[2024.01.24-19.41.00:459][833]LogMetaData: Removing '/Game/FirstPerson/Blueprints/Crosshair.Crosshair_C' ref from Metadata '/Game/FirstPerson/Blueprints/CS.PackageMetaData'
+[2024.01.24-19.41.00:459][833]LogMetaData: Removing '/Game/FirstPerson/Blueprints/Crosshair.Crosshair:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPerson/Blueprints/CS.PackageMetaData'
+[2024.01.24-19.41.00:459][833]LogMetaData: Removing '/Game/FirstPerson/Blueprints/Crosshair.Crosshair:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPerson/Blueprints/CS.PackageMetaData'
+[2024.01.24-19.41.00:459][833]LogMetaData: Removing '/Game/FirstPerson/Blueprints/Crosshair.Crosshair:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPerson/Blueprints/CS.PackageMetaData'
+[2024.01.24-19.41.00:459][833]LogMetaData: Removing '/Game/FirstPerson/Blueprints/Crosshair.SKEL_Crosshair_C:Tick' ref from Metadata '/Game/FirstPerson/Blueprints/CS.PackageMetaData'
+[2024.01.24-19.41.00:459][833]LogMetaData: Removing '/Game/FirstPerson/Blueprints/Crosshair.SKEL_Crosshair_C:Construct' ref from Metadata '/Game/FirstPerson/Blueprints/CS.PackageMetaData'
+[2024.01.24-19.41.00:459][833]LogMetaData: Removing '/Game/FirstPerson/Blueprints/Crosshair.SKEL_Crosshair_C:PreConstruct' ref from Metadata '/Game/FirstPerson/Blueprints/CS.PackageMetaData'
+[2024.01.24-19.41.00:459][833]LogMetaData: Removing '/Game/FirstPerson/Blueprints/Crosshair.SKEL_Crosshair_C' ref from Metadata '/Game/FirstPerson/Blueprints/CS.PackageMetaData'
+[2024.01.24-19.41.00:474][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.41.00:501][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/Crosshair" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/FirstPerson/Blueprints/Crosshair.uasset" SILENT=true
+[2024.01.24-19.41.00:504][833]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Crosshair
+[2024.01.24-19.41.00:504][833]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/Crosshair56C07CD944A3ED37EA0FD580504B1DF7.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/FirstPerson/Blueprints/Crosshair.uasset'
+[2024.01.24-19.41.00:524][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/CS" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/FirstPerson/Blueprints/CS.uasset" SILENT=true
+[2024.01.24-19.41.00:524][833]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/CS
+[2024.01.24-19.41.00:525][833]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/CS4307B8DF46657600B9E7088031A070C3.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/FirstPerson/Blueprints/CS.uasset'
+[2024.01.24-19.41.00:533][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 4.92 sec)
+[2024.01.24-19.41.00:551][833]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-19.41.00:551][833]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/Crosshair.Crosshair
+[2024.01.24-19.41.00:551][833]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/CS.CS
+[2024.01.24-19.41.00:551][833]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/CS.CS_C
+[2024.01.24-19.41.00:551][833]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/CS.Default__CS_C
+[2024.01.24-19.41.03:682][187]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.01.24-19.41.03:682][187]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.01.24-19.41.03:682][187]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin.SKM_Mannequin'
+[2024.01.24-19.41.10:442][913]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.41.10:553][914]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.41.17:868][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.24-19.41.18:584][725]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.41.18:606][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.24-19.41.18:621][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.24-19.41.18:633][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.24-19.41.22:835][202]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.01.24-19.41.22:894][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.24-19.41.24:757][202]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.41.24:768][202]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/FirstPerson/Maps/FirstPersonMap.Default__FirstPersonMap_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C
+	Asset Type: ObjectRedirector
+[2024.01.24-19.41.25:069][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.24-19.41.25:082][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.24-19.41.25:094][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.24-19.41.42:365][901]LogSlate: Window 'Save Level As' being destroyed
+[2024.01.24-19.41.52:137][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.24-19.41.53:754][ 32]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.42.08:708][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.24-19.42.10:342][752]LogSlate: Window 'Save Content' being destroyed
+[2024.01.24-19.42.10:351][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.42.12:061][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPDart/Game/Dart/Dart" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/Dart.uasset" SILENT=true
+[2024.01.24-19.42.12:063][752]LogSavePackage: Moving output files for package: /Game/TPDart/Game/Dart/Dart
+[2024.01.24-19.42.12:063][752]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/Dart1587E19B4A18DB2407412EBCDD90E4A2.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/Dart.uasset'
+[2024.01.24-19.42.12:069][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IngameMenu/InGameWD" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/IngameMenu/InGameWD.uasset" SILENT=true
+[2024.01.24-19.42.12:076][752]LogSavePackage: Moving output files for package: /Game/IngameMenu/InGameWD
+[2024.01.24-19.42.12:077][752]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/InGameWD8A6148E5412471969CB615B1381B7652.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/IngameMenu/InGameWD.uasset'
+[2024.01.24-19.42.12:088][752]LogSavePackage: Moving output files for package: /Game/TPDart/Game/Dart/TPDartNEW_PhysicsAsset
+[2024.01.24-19.42.12:088][752]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/TPDartNEW_PhysicsAssetB0C280B8485F170D2E2DFDB7797B92B9.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/TPDartNEW_PhysicsAsset.uasset'
+[2024.01.24-19.42.12:090][752]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.42.12:112][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPDart/Game/Dart/TPDartNEW_Skeleton" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/TPDartNEW_Skeleton.uasset" SILENT=true
+[2024.01.24-19.42.12:113][752]LogSavePackage: Moving output files for package: /Game/TPDart/Game/Dart/TPDartNEW_Skeleton
+[2024.01.24-19.42.12:113][752]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/TPDartNEW_Skeleton0D3807164D5175E27DED31AC90E8C99C.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/TPDartNEW_Skeleton.uasset'
+[2024.01.24-19.42.12:147][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPDart/Game/Dart/Wrap_Purple" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/Wrap_Purple.uasset" SILENT=true
+[2024.01.24-19.42.12:149][752]LogSavePackage: Moving output files for package: /Game/TPDart/Game/Dart/Wrap_Purple
+[2024.01.24-19.42.12:149][752]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/Wrap_Purple0D14E6BB4612A3F8BF6BC2ABA8F188DB.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Game/Dart/Wrap_Purple.uasset'
+[2024.01.24-19.42.12:155][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.80 sec (total: 6.72 sec)
+[2024.01.24-19.42.12:231][752]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.42.12:245][752]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LEVELS/CONTROLS.CONTROLS
+[2024.01.24-19.42.12:245][752]Cmd: MAP LOAD FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/CONTROLS.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.24-19.42.12:245][752]LightingResults: New page: Lighting Build
+[2024.01.24-19.42.12:245][752]LoadErrors: New page: Loading map: CONTROLS.umap
+[2024.01.24-19.42.12:311][752]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-19.42.12:311][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-19.42.12:452][752]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.24-19.42.12:463][752]MapCheck: New page: Map Check
+[2024.01.24-19.42.12:463][752]LightingResults: New page: Lighting Build
+[2024.01.24-19.42.12:477][752]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-19.42.12:481][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.24-19.42.12:483][752]LogWorld: UWorld::CleanupWorld for CONTROLS, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-19.42.12:483][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-19.42.12:519][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.24-19.42.12:531][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.24-19.42.12:539][752]LogAudio: Display: Audio Device (ID: 1) registered with world 'CONTROLS'.
+[2024.01.24-19.42.12:539][752]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.42.12:540][752]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-19.42.12:540][752]LogAIModule: Creating AISystem for world CONTROLS
+[2024.01.24-19.42.12:667][752]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.24-19.42.12:683][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.24-19.42.12:689][752]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.24-19.42.12:689][752]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2024.01.24-19.42.12:704][752]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-19.42.12:704][752]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TPDart/Game/Dart/Dart.Dart
+[2024.01.24-19.42.12:704][752]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/IngameMenu/InGameWD.InGameWD
+[2024.01.24-19.42.12:704][752]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/TPDart/Game/Dart/TPDartNEW_PhysicsAsset.TPDartNEW_PhysicsAsset
+[2024.01.24-19.42.12:704][752]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/TPDart/Game/Dart/TPDartNEW_Skeleton.TPDartNEW_Skeleton
+[2024.01.24-19.42.12:704][752]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TPDart/Game/Dart/Wrap_Purple.Wrap_Purple
+[2024.01.24-19.42.16:256][ 71]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/LEVELS/CONTROLS.CONTROLS:PersistentLevel.CONTROLS
+[2024.01.24-19.42.16:257][ 71]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.42.16:257][ 71]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-19.42.21:194][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.42.21:244][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEVELS/CONTROLS" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/CONTROLS.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.24-19.42.21:332][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.24-19.42.21:353][634]LogSavePackage: Moving output files for package: /Game/LEVELS/CONTROLS
+[2024.01.24-19.42.21:354][634]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/CONTROLS550E7337495FE042BF5B25A61EC590CB.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/CONTROLS.umap'
+[2024.01.24-19.42.21:401][634]LogFileHelpers: Saving map 'CONTROLS' took 0.164
+[2024.01.24-19.42.21:405][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 6.93 sec)
+[2024.01.24-19.42.21:407][634]AssetCheck: New page: Asset Save: CONTROLS
+[2024.01.24-19.42.21:407][634]LogContentValidation: Display: Validating /Script/Engine.World /Game/LEVELS/CONTROLS.CONTROLS
+[2024.01.24-19.42.25:317][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.24-19.42.26:337][ 89]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.42.26:359][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.24-19.42.26:374][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.24-19.42.26:387][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.24-19.42.47:977][558]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.01.24-19.42.47:977][558]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.01.24-19.42.49:528][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.42.49:553][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPDart/Dart/Dart" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/Dart.uasset" SILENT=true
+[2024.01.24-19.42.49:555][710]LogSavePackage: Moving output files for package: /Game/TPDart/Dart/Dart
+[2024.01.24-19.42.49:555][710]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/Dart830A852241CFF54FAB214DAD0BA8699A.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/Dart.uasset'
+[2024.01.24-19.42.49:556][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPDart/Dart/TPDartNEW_Skeleton" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/TPDartNEW_Skeleton.uasset" SILENT=true
+[2024.01.24-19.42.49:557][710]LogSavePackage: Moving output files for package: /Game/TPDart/Dart/TPDartNEW_Skeleton
+[2024.01.24-19.42.49:557][710]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/TPDartNEW_Skeleton85E846F64164432B24A699AABBC78DA6.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/TPDartNEW_Skeleton.uasset'
+[2024.01.24-19.42.49:559][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPDart/Dart/TPDartNEW_Anim" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/TPDartNEW_Anim.uasset" SILENT=true
+[2024.01.24-19.42.49:561][710]LogSavePackage: Moving output files for package: /Game/TPDart/Dart/TPDartNEW_Anim
+[2024.01.24-19.42.49:561][710]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/TPDartNEW_AnimC827079D4F89EBEE16F2969B4155BDDF.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/TPDartNEW_Anim.uasset'
+[2024.01.24-19.42.49:563][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPDart/Dart/TPDartNEW_PhysicsAsset" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/TPDartNEW_PhysicsAsset.uasset" SILENT=true
+[2024.01.24-19.42.49:564][710]LogSavePackage: Moving output files for package: /Game/TPDart/Dart/TPDartNEW_PhysicsAsset
+[2024.01.24-19.42.49:564][710]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/TPDartNEW_PhysicsAsset6D1A64B940FEAE910A5879867EA4E7C3.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/TPDartNEW_PhysicsAsset.uasset'
+[2024.01.24-19.42.49:566][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPDart/Dart/Wrap_Purple" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/Wrap_Purple.uasset" SILENT=true
+[2024.01.24-19.42.49:567][710]LogSavePackage: Moving output files for package: /Game/TPDart/Dart/Wrap_Purple
+[2024.01.24-19.42.49:567][710]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/Wrap_Purple86DB6D7D416CE1787A5EC7B2378E0BAD.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/Wrap_Purple.uasset'
+[2024.01.24-19.42.49:569][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPDart/Dart/TPDartNEW" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/TPDartNEW.uasset" SILENT=true
+[2024.01.24-19.42.49:890][710]LogSavePackage: Moving output files for package: /Game/TPDart/Dart/TPDartNEW
+[2024.01.24-19.42.49:890][710]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/TPDartNEW012256344401EFF8243851B7074AF6B9.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/TPDart/Dart/TPDartNEW.uasset'
+[2024.01.24-19.42.49:897][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 368 ms (total: 7.30 sec)
+[2024.01.24-19.42.49:948][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.24-19.42.49:966][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.24-19.42.49:979][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.24-19.42.50:033][710]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-19.42.50:033][710]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TPDart/Dart/Dart.Dart
+[2024.01.24-19.42.50:033][710]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/TPDart/Dart/TPDartNEW_Skeleton.TPDartNEW_Skeleton
+[2024.01.24-19.42.50:033][710]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TPDart/Dart/TPDartNEW_Anim.TPDartNEW_Anim
+[2024.01.24-19.42.50:033][710]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/TPDart/Dart/TPDartNEW_PhysicsAsset.TPDartNEW_PhysicsAsset
+[2024.01.24-19.42.50:033][710]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TPDart/Dart/Wrap_Purple.Wrap_Purple
+[2024.01.24-19.42.50:033][710]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/TPDart/Dart/TPDartNEW.TPDartNEW
+[2024.01.24-19.43.00:283][925]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.43.00:332][928]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.43.11:959][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.24-19.43.13:183][278]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.43.18:770][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.24-19.43.18:802][932]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.43.18:804][932]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LEVELS/Settings.Settings
+[2024.01.24-19.43.18:804][932]Cmd: MAP LOAD FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/Settings.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.24-19.43.18:804][932]LightingResults: New page: Lighting Build
+[2024.01.24-19.43.18:804][932]LoadErrors: New page: Loading map: Settings.umap
+[2024.01.24-19.43.18:889][932]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-19.43.18:889][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-19.43.18:915][932]LogWorld: UWorld::CleanupWorld for CONTROLS, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-19.43.18:915][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-19.43.18:915][932]MapCheck: New page: Map Check
+[2024.01.24-19.43.18:915][932]LightingResults: New page: Lighting Build
+[2024.01.24-19.43.18:926][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-19.43.18:928][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.24-19.43.18:934][932]LogWorld: UWorld::CleanupWorld for Settings, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-19.43.18:934][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-19.43.18:949][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.24-19.43.18:962][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.24-19.43.18:970][932]LogAudio: Display: Audio Device (ID: 1) registered with world 'Settings'.
+[2024.01.24-19.43.18:970][932]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.43.18:970][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-19.43.18:970][932]LogAIModule: Creating AISystem for world Settings
+[2024.01.24-19.43.19:022][932]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.24-19.43.19:037][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.24-19.43.19:041][932]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.24-19.43.19:041][932]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2024.01.24-19.43.21:933][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.43.21:968][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEVELS/Settings" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/Settings.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.24-19.43.22:002][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.24-19.43.22:016][248]LogSavePackage: Moving output files for package: /Game/LEVELS/Settings
+[2024.01.24-19.43.22:017][248]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/Settings17CA1F1442B22E22DC90AFAB30533B8E.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/Settings.umap'
+[2024.01.24-19.43.22:024][248]LogFileHelpers: Saving map 'Settings' took 0.057
+[2024.01.24-19.43.22:030][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 7.40 sec)
+[2024.01.24-19.43.22:031][248]AssetCheck: New page: Asset Save: Settings
+[2024.01.24-19.43.22:031][248]LogContentValidation: Display: Validating /Script/Engine.World /Game/LEVELS/Settings.Settings
+[2024.01.24-19.43.25:754][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.24-19.43.26:724][685]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.43.26:743][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.24-19.43.26:757][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.24-19.43.26:769][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.24-19.43.33:450][428]LogMetaData: Removing '/Game/Screens/CONTROLS_WD.CONTROLS_WD_C' ref from Metadata '/Game/Screns/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.43.33:450][428]LogMetaData: Removing '/Game/Screens/CONTROLS_WD.SKEL_CONTROLS_WD_C' ref from Metadata '/Game/Screns/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.43.33:450][428]LogMetaData: Removing '/Game/Screens/CONTROLS_WD.SKEL_CONTROLS_WD_C:PreConstruct' ref from Metadata '/Game/Screns/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.43.33:450][428]LogMetaData: Removing '/Game/Screens/CONTROLS_WD.SKEL_CONTROLS_WD_C:Construct' ref from Metadata '/Game/Screns/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.43.33:450][428]LogMetaData: Removing '/Game/Screens/CONTROLS_WD.SKEL_CONTROLS_WD_C:Tick' ref from Metadata '/Game/Screns/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.43.33:450][428]LogMetaData: Removing '/Game/Screens/CONTROLS_WD.SKEL_CONTROLS_WD_C:BndEvt__CONTROLS_WD_Button_0_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Screns/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.43.33:450][428]LogMetaData: Removing '/Game/Screens/CONTROLS_WD.CONTROLS_WD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Screns/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.43.33:450][428]LogMetaData: Removing '/Game/Screens/CONTROLS_WD.CONTROLS_WD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Screns/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.43.33:450][428]LogMetaData: Removing '/Game/Screens/CONTROLS_WD.CONTROLS_WD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Screns/CONTROLS_WD.PackageMetaData'
+[2024.01.24-19.43.33:465][428]LogMetaData: Removing '/Game/Screens/SettingsW.SettingsW_C' ref from Metadata '/Game/Screns/SettingsW.PackageMetaData'
+[2024.01.24-19.43.33:465][428]LogMetaData: Removing '/Game/Screens/SettingsW.SKEL_SettingsW_C' ref from Metadata '/Game/Screns/SettingsW.PackageMetaData'
+[2024.01.24-19.43.33:465][428]LogMetaData: Removing '/Game/Screens/SettingsW.SKEL_SettingsW_C:PreConstruct' ref from Metadata '/Game/Screns/SettingsW.PackageMetaData'
+[2024.01.24-19.43.33:465][428]LogMetaData: Removing '/Game/Screens/SettingsW.SKEL_SettingsW_C:Construct' ref from Metadata '/Game/Screns/SettingsW.PackageMetaData'
+[2024.01.24-19.43.33:465][428]LogMetaData: Removing '/Game/Screens/SettingsW.SKEL_SettingsW_C:Tick' ref from Metadata '/Game/Screns/SettingsW.PackageMetaData'
+[2024.01.24-19.43.33:465][428]LogMetaData: Removing '/Game/Screens/SettingsW.SKEL_SettingsW_C:BndEvt__SettingsW_Button_0_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Screns/SettingsW.PackageMetaData'
+[2024.01.24-19.43.33:465][428]LogMetaData: Removing '/Game/Screens/SettingsW.SKEL_SettingsW_C:BndEvt__SettingsW_Slider_0_K2Node_ComponentBoundEvent_1_OnFloatValueChangedEvent__DelegateSignature' ref from Metadata '/Game/Screns/SettingsW.PackageMetaData'
+[2024.01.24-19.43.33:465][428]LogMetaData: Removing '/Game/Screens/SettingsW.SettingsW:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Screns/SettingsW.PackageMetaData'
+[2024.01.24-19.43.33:465][428]LogMetaData: Removing '/Game/Screens/SettingsW.SettingsW:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Screns/SettingsW.PackageMetaData'
+[2024.01.24-19.43.33:465][428]LogMetaData: Removing '/Game/Screens/SettingsW.SettingsW:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Screns/SettingsW.PackageMetaData'
+[2024.01.24-19.43.33:479][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.43.33:506][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Screens/CONTROLS_WD" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screens/CONTROLS_WD.uasset" SILENT=true
+[2024.01.24-19.43.33:511][428]LogSavePackage: Moving output files for package: /Game/Screens/CONTROLS_WD
+[2024.01.24-19.43.33:511][428]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/CONTROLS_WD22D2E37B4ED74E8EAB41DC93627E45AC.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screens/CONTROLS_WD.uasset'
+[2024.01.24-19.43.33:515][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Screns/CONTROLS_WD" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screns/CONTROLS_WD.uasset" SILENT=true
+[2024.01.24-19.43.33:516][428]LogSavePackage: Moving output files for package: /Game/Screns/CONTROLS_WD
+[2024.01.24-19.43.33:517][428]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/CONTROLS_WDF2EAA08F41B0EFC1E57F2A90F8A73475.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screns/CONTROLS_WD.uasset'
+[2024.01.24-19.43.33:521][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Screens/SettingsW" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screens/SettingsW.uasset" SILENT=true
+[2024.01.24-19.43.33:526][428]LogSavePackage: Moving output files for package: /Game/Screens/SettingsW
+[2024.01.24-19.43.33:526][428]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/SettingsW7D67F5584345D0EA60E6B4A30671698A.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screens/SettingsW.uasset'
+[2024.01.24-19.43.33:531][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Screns/SettingsW" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screns/SettingsW.uasset" SILENT=true
+[2024.01.24-19.43.33:531][428]LogSavePackage: Moving output files for package: /Game/Screns/SettingsW
+[2024.01.24-19.43.33:532][428]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/SettingsW404A14554CDD7B36358B90B9B53C34B8.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Screns/SettingsW.uasset'
+[2024.01.24-19.43.33:541][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 7.46 sec)
+[2024.01.24-19.43.33:549][428]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-19.43.33:549][428]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Screens/CONTROLS_WD.CONTROLS_WD
+[2024.01.24-19.43.33:549][428]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Screns/CONTROLS_WD.CONTROLS_WD_C
+[2024.01.24-19.43.33:550][428]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Screns/CONTROLS_WD.Default__CONTROLS_WD_C
+[2024.01.24-19.43.33:550][428]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Screns/CONTROLS_WD.CONTROLS_WD
+[2024.01.24-19.43.33:550][428]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Screens/SettingsW.SettingsW
+[2024.01.24-19.43.33:550][428]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Screns/SettingsW.SettingsW_C
+[2024.01.24-19.43.33:550][428]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Screns/SettingsW.Default__SettingsW_C
+[2024.01.24-19.43.33:550][428]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Screns/SettingsW.SettingsW
+[2024.01.24-19.43.39:326][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.24-19.43.42:319][108]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-19.43.42:331][108]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Screns/SettingsW.SettingsW
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Screns/SettingsW.Default__SettingsW_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Screns/SettingsW.SettingsW_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Screns/CONTROLS_WD.CONTROLS_WD
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Screns/CONTROLS_WD.Default__CONTROLS_WD_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Screns/CONTROLS_WD.CONTROLS_WD_C
+	Asset Type: ObjectRedirector
+[2024.01.24-19.43.42:599][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.24-19.43.50:911][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.24-19.43.50:936][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.43.50:991][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.24-19.43.50:992][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEVELS/Settings" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/Settings.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.24-19.43.51:030][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.24-19.43.51:039][ 66]LogSavePackage: Moving output files for package: /Game/LEVELS/Settings
+[2024.01.24-19.43.51:040][ 66]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/Settings8D5306FB40606F9B0381F68D19670BD0.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/Settings.umap'
+[2024.01.24-19.43.51:047][ 66]LogFileHelpers: Saving map 'Settings' took 0.055
+[2024.01.24-19.43.51:052][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IngameMenu/InGameWD" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/IngameMenu/InGameWD.uasset" SILENT=true
+[2024.01.24-19.43.51:058][ 66]LogSavePackage: Moving output files for package: /Game/IngameMenu/InGameWD
+[2024.01.24-19.43.51:059][ 66]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/InGameWDA1A4196E4169C4DA799D04BF3161CE3B.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/IngameMenu/InGameWD.uasset'
+[2024.01.24-19.43.51:066][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 7.59 sec)
+[2024.01.24-19.43.51:069][ 66]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-19.43.51:069][ 66]LogContentValidation: Display: Validating /Script/Engine.World /Game/LEVELS/Settings.Settings
+[2024.01.24-19.43.51:069][ 66]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/IngameMenu/InGameWD.InGameWD
+[2024.01.24-19.44.02:775][450]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.44.02:798][450]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.01.24-19.44.02:798][450]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-19.44.02:798][450]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.24-19.44.02:869][450]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.24-19.44.02:870][450]LogWorldPartition: Display: WorldPartition initialize took 71 ms (total: 108 ms)
+[2024.01.24-19.44.02:886][450]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-19.44.04:964][450]LogSlate: Window 'Message' being destroyed
+[2024.01.24-19.44.04:970][450]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+FirstPersonMap
+Settings
+CONTROLS
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.01.24-19.44.05:008][450]LogMetaData: Removing '/Game/MenuLevels/Settings.Settings_C' ref from Metadata '/Game/LEVELS/Settings.PackageMetaData'
+[2024.01.24-19.44.05:008][450]LogMetaData: Removing '/Game/MenuLevels/Settings.SKEL_Settings_C:ReceiveBeginPlay' ref from Metadata '/Game/LEVELS/Settings.PackageMetaData'
+[2024.01.24-19.44.05:008][450]LogMetaData: Removing '/Game/MenuLevels/Settings.SKEL_Settings_C' ref from Metadata '/Game/LEVELS/Settings.PackageMetaData'
+[2024.01.24-19.44.05:008][450]LogMetaData: Removing '/Game/MenuLevels/Settings.Settings_C:ReceiveBeginPlay' ref from Metadata '/Game/LEVELS/Settings.PackageMetaData'
+[2024.01.24-19.44.05:029][450]LogMetaData: Removing '/Game/MenuLevels/FirstPersonMap.FirstPersonMap_C' ref from Metadata '/Game/LEVELS/FirstPersonMap.PackageMetaData'
+[2024.01.24-19.44.05:029][450]LogMetaData: Removing '/Game/MenuLevels/FirstPersonMap.SKEL_FirstPersonMap_C:ReceiveBeginPlay' ref from Metadata '/Game/LEVELS/FirstPersonMap.PackageMetaData'
+[2024.01.24-19.44.05:029][450]LogMetaData: Removing '/Game/MenuLevels/FirstPersonMap.SKEL_FirstPersonMap_C' ref from Metadata '/Game/LEVELS/FirstPersonMap.PackageMetaData'
+[2024.01.24-19.44.05:030][450]LogMetaData: Removing '/Game/MenuLevels/FirstPersonMap.FirstPersonMap_C:ReceiveBeginPlay' ref from Metadata '/Game/LEVELS/FirstPersonMap.PackageMetaData'
+[2024.01.24-19.44.05:045][450]LogMetaData: Removing '/Game/MenuLevels/CONTROLS.CONTROLS_C' ref from Metadata '/Game/LEVELS/CONTROLS.PackageMetaData'
+[2024.01.24-19.44.05:045][450]LogMetaData: Removing '/Game/MenuLevels/CONTROLS.CONTROLS:PersistentLevel.CONTROLS.EventGraph.K2Node_Event_0' ref from Metadata '/Game/LEVELS/CONTROLS.PackageMetaData'
+[2024.01.24-19.44.05:045][450]LogMetaData: Removing '/Game/MenuLevels/CONTROLS.SKEL_CONTROLS_C:ReceiveBeginPlay' ref from Metadata '/Game/LEVELS/CONTROLS.PackageMetaData'
+[2024.01.24-19.44.05:045][450]LogMetaData: Removing '/Game/MenuLevels/CONTROLS.SKEL_CONTROLS_C' ref from Metadata '/Game/LEVELS/CONTROLS.PackageMetaData'
+[2024.01.24-19.44.05:045][450]LogMetaData: Removing '/Game/MenuLevels/CONTROLS.CONTROLS_C:ReceiveBeginPlay' ref from Metadata '/Game/LEVELS/CONTROLS.PackageMetaData'
+[2024.01.24-19.44.05:058][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.44.05:094][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuLevels/Settings" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/MenuLevels/Settings.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.24-19.44.05:157][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.24-19.44.05:160][450]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/MenuLevels/Settings does not exist, will not scan.
+[2024.01.24-19.44.05:170][450]LogSavePackage: Moving output files for package: /Game/MenuLevels/Settings
+[2024.01.24-19.44.05:170][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/SettingsEA0164604EE3E66CDD41A4B15683F547.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/MenuLevels/Settings.umap'
+[2024.01.24-19.44.05:178][450]LogFileHelpers: Saving map 'Settings' took 0.084
+[2024.01.24-19.44.05:179][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEVELS/Settings" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/Settings.umap" SILENT=true
+[2024.01.24-19.44.05:186][450]LogSavePackage: Moving output files for package: /Game/LEVELS/Settings
+[2024.01.24-19.44.05:187][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/Settings22D305444949CCBD2D04B0A802D20C42.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/Settings.umap'
+[2024.01.24-19.44.05:189][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-19.44.05:204][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.24-19.44.05:206][450]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/MenuLevels/FirstPersonMap does not exist, will not scan.
+[2024.01.24-19.44.05:211][450]LogSavePackage: Moving output files for package: /Game/MenuLevels/FirstPersonMap
+[2024.01.24-19.44.05:211][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/FirstPersonMapB795E8C442C290DA084272BEAF9F0491.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/MenuLevels/FirstPersonMap.umap'
+[2024.01.24-19.44.05:231][450]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/8/GB/B94VUJSN36ZHY8WYD93IUE
+/Game/__ExternalObjects__/MenuLevels/FirstPersonMap/2/IS/RMI778JJ4RARY3BCH5MTJS
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/1/OJ/23J9JMRBMY5OKJRTNVR947
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/C/DQ/913CFRH310LLITO9T97N6N
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/0/CS/GV1H7V37NDDUL2JJFE627H
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/B/FX/L7YWAVXBKEL8EDCOLDL5GT
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/0/YL/DVQSSIXU975GHEIQDWPDGJ
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/3/GQ/X87L9OLAPTTVL5RIQ27HOM
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/1/EY/O88CUAN6DKE7ZQ796UD5JX
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/9/GB/G1WNFKIF3HLI0YG5XLJ0T8
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/7/Z7/W86DIFKERF7NEWJWPNPAW7
+[2024.01.24-19.44.05:231][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.44.05:249][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MenuLevels/FirstPersonMap/8/GB/B94VUJSN36ZHY8WYD93IUE
+[2024.01.24-19.44.05:249][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/B94VUJSN36ZHY8WYD93IUE68E07C7540D79CFA2C5DCB8C9645A835.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/__ExternalActors__/MenuLevels/FirstPersonMap/8/GB/B94VUJSN36ZHY8WYD93IUE.uasset'
+[2024.01.24-19.44.05:255][450]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MenuLevels/FirstPersonMap/2/IS/RMI778JJ4RARY3BCH5MTJS
+[2024.01.24-19.44.05:255][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/RMI778JJ4RARY3BCH5MTJSF3F5EF104206D8FD02DB3197DC91A85B.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/__ExternalObjects__/MenuLevels/FirstPersonMap/2/IS/RMI778JJ4RARY3BCH5MTJS.uasset'
+[2024.01.24-19.44.05:258][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MenuLevels/FirstPersonMap/1/OJ/23J9JMRBMY5OKJRTNVR947
+[2024.01.24-19.44.05:258][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/23J9JMRBMY5OKJRTNVR947FEF9F5574FDB82B673612787D0BFE8CA.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/__ExternalActors__/MenuLevels/FirstPersonMap/1/OJ/23J9JMRBMY5OKJRTNVR947.uasset'
+[2024.01.24-19.44.05:262][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MenuLevels/FirstPersonMap/C/DQ/913CFRH310LLITO9T97N6N
+[2024.01.24-19.44.05:262][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/913CFRH310LLITO9T97N6N3044A13F46928385B9F023AC6043B8E5.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/__ExternalActors__/MenuLevels/FirstPersonMap/C/DQ/913CFRH310LLITO9T97N6N.uasset'
+[2024.01.24-19.44.05:266][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MenuLevels/FirstPersonMap/0/CS/GV1H7V37NDDUL2JJFE627H
+[2024.01.24-19.44.05:266][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/GV1H7V37NDDUL2JJFE627H34CEEFF645BAC09903C35293D3D0495A.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/__ExternalActors__/MenuLevels/FirstPersonMap/0/CS/GV1H7V37NDDUL2JJFE627H.uasset'
+[2024.01.24-19.44.05:269][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MenuLevels/FirstPersonMap/B/FX/L7YWAVXBKEL8EDCOLDL5GT
+[2024.01.24-19.44.05:269][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/L7YWAVXBKEL8EDCOLDL5GT345F39B74B9C86A8F2FFDEA8EAD5DBA5.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/__ExternalActors__/MenuLevels/FirstPersonMap/B/FX/L7YWAVXBKEL8EDCOLDL5GT.uasset'
+[2024.01.24-19.44.05:272][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MenuLevels/FirstPersonMap/0/YL/DVQSSIXU975GHEIQDWPDGJ
+[2024.01.24-19.44.05:272][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/DVQSSIXU975GHEIQDWPDGJ368EE3A340308AF818878D9B1923AB09.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/__ExternalActors__/MenuLevels/FirstPersonMap/0/YL/DVQSSIXU975GHEIQDWPDGJ.uasset'
+[2024.01.24-19.44.05:275][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MenuLevels/FirstPersonMap/3/GQ/X87L9OLAPTTVL5RIQ27HOM
+[2024.01.24-19.44.05:275][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/X87L9OLAPTTVL5RIQ27HOM8A36DDE040FE8A7C671867A9C55855C2.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/__ExternalActors__/MenuLevels/FirstPersonMap/3/GQ/X87L9OLAPTTVL5RIQ27HOM.uasset'
+[2024.01.24-19.44.05:277][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MenuLevels/FirstPersonMap/1/EY/O88CUAN6DKE7ZQ796UD5JX
+[2024.01.24-19.44.05:277][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/O88CUAN6DKE7ZQ796UD5JX4D1851C84A9117AC1F227FACD9E1E9C1.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/__ExternalActors__/MenuLevels/FirstPersonMap/1/EY/O88CUAN6DKE7ZQ796UD5JX.uasset'
+[2024.01.24-19.44.05:280][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MenuLevels/FirstPersonMap/9/GB/G1WNFKIF3HLI0YG5XLJ0T8
+[2024.01.24-19.44.05:280][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/G1WNFKIF3HLI0YG5XLJ0T887E1FC8B4386B194BA663AA1137CA764.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/__ExternalActors__/MenuLevels/FirstPersonMap/9/GB/G1WNFKIF3HLI0YG5XLJ0T8.uasset'
+[2024.01.24-19.44.05:283][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MenuLevels/FirstPersonMap/7/Z7/W86DIFKERF7NEWJWPNPAW7
+[2024.01.24-19.44.05:283][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/W86DIFKERF7NEWJWPNPAW75EECC42D4C2F1BF5F4E5BF861907D311.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/__ExternalActors__/MenuLevels/FirstPersonMap/7/Z7/W86DIFKERF7NEWJWPNPAW7.uasset'
+[2024.01.24-19.44.05:305][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 7.67 sec)
+[2024.01.24-19.44.05:306][450]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/8/GB/B94VUJSN36ZHY8WYD93IUE
+/Game/__ExternalObjects__/MenuLevels/FirstPersonMap/2/IS/RMI778JJ4RARY3BCH5MTJS
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/1/OJ/23J9JMRBMY5OKJRTNVR947
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/C/DQ/913CFRH310LLITO9T97N6N
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/0/CS/GV1H7V37NDDUL2JJFE627H
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/B/FX/L7YWAVXBKEL8EDCOLDL5GT
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/0/YL/DVQSSIXU975GHEIQDWPDGJ
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/3/GQ/X87L9OLAPTTVL5RIQ27HOM
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/1/EY/O88CUAN6DKE7ZQ796UD5JX
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/9/GB/G1WNFKIF3HLI0YG5XLJ0T8
+/Game/__ExternalActors__/MenuLevels/FirstPersonMap/7/Z7/W86DIFKERF7NEWJWPNPAW7
+[2024.01.24-19.44.05:309][450]LogFileHelpers: Saving map 'FirstPersonMap' took 0.120
+[2024.01.24-19.44.05:310][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEVELS/FirstPersonMap" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/FirstPersonMap.umap" SILENT=true
+[2024.01.24-19.44.05:311][450]LogSavePackage: Moving output files for package: /Game/LEVELS/FirstPersonMap
+[2024.01.24-19.44.05:311][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/FirstPersonMap8518C1914F2398FDB740C9BFFD7542F5.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/FirstPersonMap.umap'
+[2024.01.24-19.44.05:313][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-19.44.05:314][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuLevels/CONTROLS" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/MenuLevels/CONTROLS.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.24-19.44.05:329][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.24-19.44.05:331][450]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/MenuLevels/CONTROLS does not exist, will not scan.
+[2024.01.24-19.44.05:338][450]LogSavePackage: Moving output files for package: /Game/MenuLevels/CONTROLS
+[2024.01.24-19.44.05:338][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/CONTROLSE913DD7542E9BA3E4B17A983731331F1.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/MenuLevels/CONTROLS.umap'
+[2024.01.24-19.44.05:357][450]LogFileHelpers: Saving map 'CONTROLS' took 0.044
+[2024.01.24-19.44.05:358][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEVELS/CONTROLS" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/CONTROLS.umap" SILENT=true
+[2024.01.24-19.44.05:359][450]LogSavePackage: Moving output files for package: /Game/LEVELS/CONTROLS
+[2024.01.24-19.44.05:360][450]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/CONTROLS430EC6F445DD7B915523119AA9D68AAE.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/LEVELS/CONTROLS.umap'
+[2024.01.24-19.44.05:368][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 310 ms (total: 7.98 sec)
+[2024.01.24-19.44.05:378][450]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.World /Game/MenuLevels/Settings.Settings
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LEVELS/Settings.Settings
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LEVELS/Settings.Settings_C
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LEVELS/Settings.Default__Settings_C
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.World /Game/MenuLevels/FirstPersonMap.FirstPersonMap
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/MenuLevels/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MenuLevels/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_302D60FF-4E35CA91-FF26699E-298393E3
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/MenuLevels/FirstPersonMap.FirstPersonMap:PersistentLevel.ExponentialHeightFog_0
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/MenuLevels/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_0
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/MenuLevels/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_1
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/MenuLevels/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/MenuLevels/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyAtmosphere_0
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/MenuLevels/FirstPersonMap.FirstPersonMap:PersistentLevel.VolumetricCloud_0
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/MenuLevels/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_0
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/MenuLevels/FirstPersonMap.FirstPersonMap:PersistentLevel.TextRenderActor_1
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MenuLevels/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LEVELS/FirstPersonMap.FirstPersonMap_C
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LEVELS/FirstPersonMap.FirstPersonMap
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LEVELS/FirstPersonMap.Default__FirstPersonMap_C
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/Engine.World /Game/MenuLevels/CONTROLS.CONTROLS
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LEVELS/CONTROLS.CONTROLS
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LEVELS/CONTROLS.CONTROLS_C
+[2024.01.24-19.44.05:378][450]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LEVELS/CONTROLS.Default__CONTROLS_C
+[2024.01.24-19.45.46:022][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-19.45.46:046][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuLevels/Settings" FILE="../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/MenuLevels/Settings.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.24-19.45.46:089][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.24-19.45.46:101][135]LogSavePackage: Moving output files for package: /Game/MenuLevels/Settings
+[2024.01.24-19.45.46:102][135]LogSavePackage: Moving '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Saved/SettingsC1ABA28E4E7E79375420C5AB911AAA70.tmp' to '../../../../../ZGDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/MenuLevels/Settings.umap'
+[2024.01.24-19.45.46:109][135]LogFileHelpers: Saving map 'Settings' took 0.063
+[2024.01.24-19.45.46:115][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 8.07 sec)
+[2024.01.24-19.45.46:116][135]AssetCheck: New page: Asset Save: Settings
+[2024.01.24-19.45.46:116][135]LogContentValidation: Display: Validating /Script/Engine.World /Game/MenuLevels/Settings.Settings
