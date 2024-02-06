@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Level5GDW/TESTGUARDBP.uasset",
+				"C:/GDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Level1GDW/Levels/Level5GDWMap.umap",
+				"C:/GDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/GDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Level5GDW/BP_CAMZOOMOUT.uasset",
+				"C:/GDW/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Level5GDW/BP_Camtest.uasset",
 				"C:/Users/samfa/OneDrive/Documents/Game Development Year 3/Unreal/PROJECT_BLINK/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Level1GDW/Levels/Level3GDWMap.umap",
 				"C:/Users/samfa/OneDrive/Documents/Game Development Year 3/Unreal/PROJECT_BLINK/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/samfa/OneDrive/Documents/Game Development Year 3/Unreal/PROJECT_BLINK/ProjectBlinkRepo/FPS_gdw/FPS_gdw/FPS_gdw/Content/Models/control_panel/panel.uasset",
