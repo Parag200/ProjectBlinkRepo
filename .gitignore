@@ -76,3 +76,4 @@ DerivedDataCache/*
 # Log files
 *.log
 FPS_gdw/FPS_gdw/FPS_gdw/Saved/Logs/FPS_gdw.log
+*.log
